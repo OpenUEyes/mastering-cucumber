@@ -1,0 +1,22 @@
+{
+  "name": "webdriverio-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/cli": "^6.10.9",
+    "@wdio/cucumber-framework": "^6.10.6",
+    "@wdio/mocha-framework": "^6.10.6",
+    "@wdio/spec-reporter": "^6.10.6",
+    "@wdio/sync": "^6.10.7",
+    "chromedriver": "^87.0.4",
+    "local": "^0.3.3",
+    "wdio-chromedriver-service": "^6.0.4"
+  }
+}
